@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Calico>
+    <Level>
+       <Property Key="PixelsPerMeter" Value="10.0"></Property>
+       <Property Key="Width" Value="500.0"></Property>
+       <Property Key="Height" Value="500.0"></Property>
+       <Property Key="UseGrid" Value="true"></Property>
+       <Property Key="BackgroundColor" Value="0,0,0"></Property>
+       <Property Key="GridSpacing" Value="1.0"></Property>
+    </Level>
+    <Element>
+        <Property Key="Name" Value="Planet"></Property>
+        <Property Key="X" Value="48.0"></Property>
+        <Property Key="Y" Value="456.0"></Property>
+        <Property Key="ViewX" Value="0.0"></Property>
+        <Property Key="ViewY" Value="0.0"></Property>
+        <Property Key="Width" Value="1.0"></Property>
+        <Property Key="Height" Value="1.0"></Property>
+        <Property Key="AttachedToView" Value="false"></Property>
+        <Property Key="CalicoDisplay" Value="Ellipse"></Property>
+        <Property Key="ImageLeft" Value="0.0"></Property>
+        <Property Key="ImageRight" Value="1.0"></Property>
+        <Property Key="ImageBottom" Value="0.0"></Property>
+        <Property Key="ImageTop" Value="1.0"></Property>
+        <Property Key="Role" Value="Planet"></Property>
+        <Property Key="Mass" Value="5e24"></Property>
+    </Element>
+    <Element>
+        <Property Key="Name" Value="Physics"></Property>
+        <Property Key="X" Value="0.0"></Property>
+        <Property Key="Y" Value="0.0"></Property>
+        <Property Key="ViewX" Value="0.0"></Property>
+        <Property Key="ViewY" Value="0.0"></Property>
+        <Property Key="Width" Value="0.0"></Property>
+        <Property Key="Height" Value="0.0"></Property>
+        <Property Key="AttachedToView" Value="false"></Property>
+        <Property Key="CalicoDisplay" Value="None"></Property>
+        <Property Key="ImageLeft" Value="0.0"></Property>
+        <Property Key="ImageRight" Value="1.0"></Property>
+        <Property Key="ImageBottom" Value="0.0"></Property>
+        <Property Key="ImageTop" Value="1.0"></Property>
+        <Property Key="G" Value="6.673e-22"></Property>
+        <Property Key="Role" Value="Physics"></Property>
+    </Element>
+    <Element>
+        <Property Key="Name" Value="TruthAndBeauty"></Property>
+        <Property Key="X" Value="41.0"></Property>
+        <Property Key="Y" Value="602.0"></Property>
+        <Property Key="ViewX" Value="0.0"></Property>
+        <Property Key="ViewY" Value="0.0"></Property>
+        <Property Key="Width" Value="1.0"></Property>
+        <Property Key="Height" Value="1.0"></Property>
+        <Property Key="AttachedToView" Value="false"></Property>
+        <Property Key="CalicoDisplay" Value="Ellipse"></Property>
+        <Property Key="ImageLeft" Value="0.0"></Property>
+        <Property Key="ImageRight" Value="1.0"></Property>
+        <Property Key="ImageBottom" Value="0.0"></Property>
+        <Property Key="ImageTop" Value="1.0"></Property>
+        <Property Key="Role" Value="TruthAndBeauty"></Property>
+    </Element>
+    <Element>
+        <Property Key="Name" Value="Camera"></Property>
+        <Property Key="X" Value="0.0"></Property>
+        <Property Key="Y" Value="0.0"></Property>
+        <Property Key="ViewX" Value="0.0"></Property>
+        <Property Key="ViewY" Value="0.0"></Property>
+        <Property Key="Width" Value="0.0"></Property>
+        <Property Key="Height" Value="0.0"></Property>
+        <Property Key="AttachedToView" Value="false"></Property>
+        <Property Key="CalicoDisplay" Value="None"></Property>
+        <Property Key="ImageLeft" Value="0.0"></Property>
+        <Property Key="ImageRight" Value="1.0"></Property>
+        <Property Key="ImageBottom" Value="0.0"></Property>
+        <Property Key="ImageTop" Value="1.0"></Property>
+        <Property Key="Role" Value="Camera"></Property>
+        <Property Key="CameraHeight" Value="50"></Property>
+        <Property Key="LookAt" Value="42.0, 602.5"></Property>
+    </Element>
+</Calico>

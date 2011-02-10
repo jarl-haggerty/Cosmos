@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Graphics>
+    <Property Key="FullScreen" Value="false"></Property>
+    <Property Key="ScreenHeight" Value="800"></Property>
+    <Property Key="ScreenWidth" Value="1280"></Property>
+</Graphics>
